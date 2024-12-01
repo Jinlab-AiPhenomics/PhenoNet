@@ -16,7 +16,7 @@
       <a href="https://github.com/Jinlab-AiPhenomics/PhenoNet/issues">Report Bug</a>
 </p>
 
-## Overview
+## 📝 Overview
 Ruinan Zhang<sup>1</sup>, Shichao Jin<sup>1*</sup>, Yuanhao Zhang<sup>1</sup>, Jingrong Zang<sup>1</sup>, Yu Wang<sup>1</sup>, Qing Li<sup>1</sup>, Zhuangzhuang Sun<sup>1</sup>, Xiao Wang<sup>1</sup>, Qin Zhou<sup>1</sup>, Jian Cai<sup>1</sup>, Shan Xu<sup>1</sup>, Yanjun Su<sup>2</sup>, Jin Wu<sup>3</sup>, Dong Jiang<sup>1</sup>
 
 <sup>1</sup>Plant Phenomics Research Centre, Academy for Advanced Interdisciplinary Studies, Collaborative Innovation Centre for Modern Crop Production co-sponsored by Province and Ministry, College of Agriculture, Nanjing Agricultural University, Nanjing 210095, China
@@ -27,7 +27,7 @@ Ruinan Zhang<sup>1</sup>, Shichao Jin<sup>1*</sup>, Yuanhao Zhang<sup>1</sup>, J
 
 \* Corresponding author: Shichao Jin ([jschaon@njau.edu.cn](mailto:jschaon@njau.edu.cn); OR jinshichao1993@gmail.com)
 
-## Installation
+## ⚙️ Installation
 ### Install with Conda
 1. Please install Anaconda firstly.
 
@@ -42,7 +42,7 @@ Ruinan Zhang<sup>1</sup>, Shichao Jin<sup>1*</sup>, Yuanhao Zhang<sup>1</sup>, J
 3. Create a clear environment for PhenoNet and activate the environment.
 
    ```python
-   conda create -n phenonet python=3.8
+   conda create -n phenonet python=3.9
    conda activate phenonet
    ```
 4. Install Python requirements.
@@ -50,7 +50,7 @@ Ruinan Zhang<sup>1</sup>, Shichao Jin<sup>1*</sup>, Yuanhao Zhang<sup>1</sup>, J
    ```python
    pip install -r requirements.txt
    ```
-## Usage
+## 🚀 Usage
 
 ### Architecture
 
@@ -75,10 +75,10 @@ Please visit https://help.phenonet.org/ to access online training documents.
 
 Please visit https://help.phenonet.org/ to access online training documents.
 
-## Thanks
+## 🙏 Acknowledgement
 
 - [PyTorch Image Models](https://github.com/huggingface/pytorch-image-models/tree/main)
 
-## License
+## 📄 License
 
 [GPL-3.0](LICENSE) © PhenoNet
